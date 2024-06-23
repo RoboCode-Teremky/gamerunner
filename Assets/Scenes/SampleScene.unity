@@ -597,10 +597,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1107731068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34dde64ad09402c4d85bcb0a5ace586b, type: 3}
+  m_Script: {fileID: 11500000, guid: 5e9ac3311e08fcb41882467fac3be80c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 1
+  jumpForce: 10
 --- !u!1 &1868283531
 GameObject:
   m_ObjectHideFlags: 0
@@ -613,7 +613,7 @@ GameObject:
   - component: {fileID: 1868283532}
   m_Layer: 0
   m_Name: map
-  m_TagString: Untagged
+  m_TagString: map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
