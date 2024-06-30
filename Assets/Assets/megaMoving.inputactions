@@ -1,0 +1,12 @@
+{
+    "name": "megaMoving",
+    "maps": [
+        {
+            "name": "moving",
+            "id": "ce3d00ef-17b5-4f17-93e8-b196f21f8eae",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
